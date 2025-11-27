@@ -1,5 +1,5 @@
 """
-display_image.py
+img_tools.py
 
 Small image processing toolbox for teaching:
 - read images
